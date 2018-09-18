@@ -40,3 +40,8 @@ create: /etc/avahi/services/mosquitto.service
 * Heartbeat indicator on internal LED (let you know its still ticking)
 
 * [TODO] : Adding sound trigger and MP3 BOARD
+
+Prototype build:
+----------------
+
+![image of build](https://github.com/jmoverley/ESP_Doorbell/blob/master/433_doorbell_d1Mini.jpg)
